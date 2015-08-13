@@ -1,5 +1,5 @@
 #Recursos sobre la política del internet
-Una lista de recursos -- técnio y no-técnico -- para aprender y enseñar sobre los asuntos de la polítical del Internet.
+Una lista de recursos -- técnio y no-técnico -- para aprender y enseñar sobre los asuntos de la polítical del Internet ([English resources here](https://github.com/Melechuga/internet-policy-resources)).
 
 ###Índice
 1. [Neutralidad de la red](#neutralidad-de-la-red)
